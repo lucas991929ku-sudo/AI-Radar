@@ -1,6 +1,0 @@
-{
-  "name": "AI Radar - AI Operating System",
-  "description": "Comprehensive AI OS with conversational pipeline, agent orchestrator, 4-tier memory manager, tool registry, and streaming ChatGPT-style UI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
